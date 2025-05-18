@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <string name="play_now">Play Now</string>
+    <string name="challenges">Challenges</string>
+    <string name="dog_contest">Dogs contest</string>
+    <string name="challenges_description">Improve your pet characteristics and become unstoppable animal</string>
+    <string name="skills">Skills</string>
+    <string name="skills_description"> It’s a skill I don’t really brag about, but it’s definitely come in handy a few times!</string>
+    <string name="refer_text">Refer friends to receive\n100 coins each!</string>
+    <string name="refer_code">SW0123</string>
+    <string name="home">Home</string>
+    <string name="squad">Squad</string>
+    <string name="edit">Edit</string>
+    <string name="guarding">Guarding</string>
+    <string name="herding">Herding</string>
+    <string name="hunting">Hunting</string>
+    <string name="retrieving">Retrieving</string>
+    <string name="scent_detection">Scent detection</string>
+    <string name="boldness">Boldness</string>
+    <string name="aggression">Aggression</string>
+</resources>
